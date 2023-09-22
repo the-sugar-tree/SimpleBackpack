@@ -1,0 +1,7 @@
+name: SimpleBackpack
+version: '${version}'
+main: com.sugar_tree.simplebackpack.SimpleBackpack
+api-version: '1.20'
+commands:
+  backpack:
+    aliases: [bp]
